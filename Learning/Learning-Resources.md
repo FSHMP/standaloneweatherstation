@@ -69,6 +69,8 @@ With the rise in Citizen Science, Commons Based Peer Production the participatio
 ## Learn from Proprietary Systems:
 
 * [Aeron WMS](http://www.aeronsystems.com/solutions/wireless-weather-station/)
+* Netatmo weather station - Outdoor unit (https://www.fictiv.com/blog/posts/netatmo-weather-station-teardown-part-1-outdoor-module)
+* Netatmo weather station - Indoor unit (https://www.fictiv.com/blog/posts/netatmo-weather-station-teardown-part-2-indoor-module)
 
 
 ## Applications:
