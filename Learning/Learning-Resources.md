@@ -19,19 +19,19 @@ Publicly funded institutes - government run have a significant impact in Meteoro
 * [How many WMS are needed for Solar PV](http://www.aeronsystems.com/find-correct-number-weather-monitoring-stations-pv-solar-plant/)
 
 
-
 ## Guides, Books:
 
 Guides formed by the organizations - for several different purposes helps us to udnerstand better about Meteorology and weather station instrument further.
 
 * [Wikibook on Meteorology - needs our contribution](https://en.wikibooks.org/wiki/Meteorology)
+* [RFC on Weather Data - IETF](https://tools.ietf.org/html/rfc251)
 * [Surface Weather Observation](https://en.wikipedia.org/wiki/Surface_weather_observation)
 * [CWOP - Citizen Weather Station Resources](http://www.wxqa.com/resources.html)
 * [Model Analysis Guidance](http://mag.ncep.noaa.gov/)
 * [Surface Weather Analysis](https://en.wikipedia.org/wiki/Surface_weather_analysis)
 * [Observing practices & instruments, reviews](http://measuringtheweather.com/)
 * [Build a Weather Station like a pro](https://weather.com/news/news/how-make-weather-station-pro-20130731#/1)
-
+* [Wikibook - school science - weather forecasting](https://en.wikibooks.org/wiki/High_School_Earth_Science/Weather_Forecasting)
 
 
 ## Standards, Formats:
